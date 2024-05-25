@@ -1,2 +1,2 @@
 # InternPe
-Repository for TechnoHacks Internship Projects
+Repository for InternPe Internship Projects
